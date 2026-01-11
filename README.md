@@ -1,1 +1,2 @@
-Alvin Li 
+Alvin Li
+lialv@oregonstate.edu 
